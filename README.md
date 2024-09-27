@@ -41,10 +41,18 @@ The script will check for these dependencies and install them automatically if t
    ```bash
    chmod +x vulnscan.sh
 
-3. cd vulnscan
+   cd vulnscan
    
-5. bash ./install.sh or ./install
+   bash ./install.sh or ./install
    
-7. sudo apt install vulnscan
+   sudo apt install vulnscan
    
-9. ./vulnscan   
+   ./vulnscan
+   
+   cd vulnscan
+   
+   bash ./install.sh or ./install
+   
+   sudo apt install vulnscan
+   
+   ./vulnscan   
