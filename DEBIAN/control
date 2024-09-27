@@ -1,0 +1,9 @@
+Package: vulnscan
+Version: 1.0
+Section: base
+Priority: optional
+Architecture: all
+Essential: no
+Maintainer: Suleiman Yahaya Garo <suleimanyahyagaro@gmail.com>
+Description: Vulnscan - A Network, Vulnerability Scanning, and Information Gathering Tool
+Depends: nmap, nikto, curl, whois, whatweb, sqlmap, figlet, lolcat

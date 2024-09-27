@@ -1,0 +1,14 @@
+Source: vulnscan
+Section: utils
+Priority: optional
+Maintainer: Suleiman Yahaya Garo <suleimanyahyagaro@gmail.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.8
+Homepage: https://github.com/garogenius/repo/vulnscan
+
+Package: vulnscan
+Architecture: all
+Depends: nmap, nikto, curl, whois, whatweb, sqlmap, figlet, lolcat
+Description: A network, vulnerability scanning, and information gathering tool.
+ This package provides tools to scan networks for vulnerabilities and gather information.
+

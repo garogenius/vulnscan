@@ -1,0 +1,34 @@
+Format: 1.8
+Date: Wed, 26 Sep 2024 12:00:00 +0000
+Source: vulnscan
+Binary: vulnscan
+Architecture: source all
+Version: 1.0-0
+Distribution: unstable
+Urgency: low
+Maintainer: Suleiman Yahaya Garo <suleimanyahyagaro@gmail.com>
+Changed-By: Suleiman Yahaya Garo <suleimanyahyagaro@gmail.com>
+Description:
+ vulnscan   - A network, vulnerability scanning, and information gathering tool
+Changes:
+ vulnscan (1.0-0) unstable; urgency=low
+ .
+   * Initial release.
+Checksums-Sha1:
+ e814b7be3cb4516978f1d4dd19e73ee7025ca4b0 830 vulnscan_1.0-0.dsc
+ 00324f66a09f50e69892e0c5ed45e4151712089b 2772 vulnscan_1.0.orig.tar.gz
+ 817fd4a8b49b751e4a87315a01604309bc01c963 3768 vulnscan_1.0-0.debian.tar.xz
+ 73450268d9af1d0b21020130630a812f1b865944 3228 vulnscan_1.0-0_all.deb
+ fb5d5110001ef3809165b5ac6ff08add15e020d7 5660 vulnscan_1.0-0_amd64.buildinfo
+Checksums-Sha256:
+ 53ac71848717560e7a78a2a2f2db1e2521d2d7bcba0faec5b4a0f20a201c8690 830 vulnscan_1.0-0.dsc
+ 213d7672c0fe225e383e130ce1f00e42c2fd64b27d91db60c79ba734fb7dede7 2772 vulnscan_1.0.orig.tar.gz
+ 369ac56a903375b8956076bd5d6b96481b4dba6f8f552a7fcb011fac919c0e65 3768 vulnscan_1.0-0.debian.tar.xz
+ 153d57340c7d0f3ff9fab9461680bb711214c21ed18ad20c56a17150f95f121a 3228 vulnscan_1.0-0_all.deb
+ 946b4f742546e679aece554302419c409369005e96d371f1f8a2c7b2e4eb4156 5660 vulnscan_1.0-0_amd64.buildinfo
+Files:
+ 43ba8176aa00148379ecda07671a60bc 830 utils optional vulnscan_1.0-0.dsc
+ b728e02d6609a1aad1dc5cfc677dadbf 2772 utils optional vulnscan_1.0.orig.tar.gz
+ 55793e0ecbb98dfdcf10123254a550ae 3768 utils optional vulnscan_1.0-0.debian.tar.xz
+ 796758176f404df23eeaae223f6b68fa 3228 utils optional vulnscan_1.0-0_all.deb
+ 52938ee1446ec76c68025b063a7b06d1 5660 utils optional vulnscan_1.0-0_amd64.buildinfo
